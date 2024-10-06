@@ -1,1 +1,2 @@
 # college-website
+A responsive and visually appealing college website built using HTML, CSS, JavaScript, and Bootstrap. The site includes sections such as an overview of the college, courses offered, campus facilities, image carousel, testimonials, and a call to action. It provides a comprehensive and modern user experience, emphasizing user-friendly navigation, well-organized content, and interactive features.
